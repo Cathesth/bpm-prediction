@@ -1,0 +1,13 @@
+# 무시할 파일
+/*
+**/.ipynb_checkpoints/
+**/__pycache__/
+*.csv
+
+# 추적할 파일
+!/data/
+!/jupyter/
+
+# 이 파일들은 항상 추적
+!.gitignore
+!.gitmessage.txt
